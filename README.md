@@ -1,3 +1,3 @@
 # PythonLabs
 
-Deep parser email addresses from the site
+Recursive link parser from the site
